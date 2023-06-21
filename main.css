@@ -1,0 +1,28 @@
+.button_one {
+    width: 200px;
+    height: 40px;
+    background-color: green;
+}
+
+.button_one:hover {
+    background-color: red;
+}
+
+.button_one:active {
+    background-color: blue;
+}
+
+.link_one {
+    font: 32px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.link_one:hover {
+    color: green;
+}
+
+.link_one:active {
+    color: pink;
+}
